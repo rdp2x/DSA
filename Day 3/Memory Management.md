@@ -14,5 +14,4 @@
 
 
 #### Garbage Collection
-^da1e39
 When an object does not have any reference varaible pointing to it, the data is removed by the garbage collector of the language. It is basically erased or removed from existence. :)

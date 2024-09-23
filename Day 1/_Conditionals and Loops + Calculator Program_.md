@@ -12,7 +12,7 @@
 10. E3 : for loop
 11. Syntax of a `while` loop
 12. E4 : while loop
-13. When to use `for` loop and `while` loop
+13. [[Usage|When to use `for` loop and `while` loop]]
 14. Syntax of a `do while` loop
 15. E5 : do while loop
 16. `while` loop vs `do while` loop

@@ -1,4 +1,4 @@
-Variable arguments is when we don't know how many arguments the user is going to give.
+%%  %%Variable arguments is when we don't know how many arguments the user is going to give.
 For this situation we use `...variableName` in the arguments.
 
 ```java
@@ -20,3 +20,4 @@ public class Main {
 > [!NOTE]
 > - The Variable Argument converts all the given values in an  array.
 > - To print it, we need to convert the array to String format using `.toString()` method.
+
