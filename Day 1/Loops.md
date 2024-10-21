@@ -6,6 +6,7 @@
 ## Entry Control Loops
 - This loop always tests the condition before entering into the loop.
 - You can think of it like a watchman asking a guy before entering the room.
+#### For Loop
 - It contains a loop called `for` loop.
 - The syntax of for loop is:
 ```

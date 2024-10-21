@@ -20,7 +20,7 @@
 18. Storage of Objects in Heap
 19. Array Passing in Function
 20. [[Multidimensional Arrays]]
-21. Syntax of a 2D Array
+21. [[Syntax of a 2D Array]]
 22. Internal Working of a 2D Array
 23. 2D Array Input
 24. 2D Array Output

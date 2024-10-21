@@ -1,0 +1,1 @@
+A simple iteration over an array to find an element.
