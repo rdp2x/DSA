@@ -1,0 +1,80 @@
+{
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "folder-notes:create-folder-note-from-selected-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "create-note-in-folder:quickSwitcher-creator": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "graph:open": [],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ]
+}

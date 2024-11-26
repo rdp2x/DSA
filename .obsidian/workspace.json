@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "2d287abb93ca3c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d60af73dbbf6997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6163d6c99c3e4910",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c23b4bd11d00aad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9995d7956008251f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f2f67811ed61241",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9e854ee157c1a4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e8601f72e2eda2f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "54f9117137d6a758",
+    "type": "split",
+    "children": [
+      {
+        "id": "8681f99702c98263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f45500aa1cec42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day 0/_First Java Program - Input-Output, Debugging and Datatypes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _First Java Program - Input-Output, Debugging and Datatypes"
+            }
+          },
+          {
+            "id": "7e54d5ac6ebdd1ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day 0/_First Java Program - Input-Output, Debugging and Datatypes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _First Java Program - Input-Output, Debugging and Datatypes"
+            }
+          },
+          {
+            "id": "b9952fe37264f368",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "769886e5d7983e72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day 0/_First Java Program - Input-Output, Debugging and Datatypes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _First Java Program - Input-Output, Debugging and Datatypes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6163d6c99c3e4910",
+  "lastOpenFiles": [
+    "Day 8/Binary Search.md",
+    "Day 8/Algorithm.md",
+    "Day 10/Row Column Matrix.md",
+    "Day 8/_Binary Search Algorithm.md",
+    "Day 0/_First Java Program - Input-Output, Debugging and Datatypes.md",
+    "Day 0/Introduction.md",
+    "Day 3/Architecture of Java.md",
+    "Day 3/Java Code Execution.md",
+    "Day 3/JDK and JRE.md",
+    "Day 3/Java Code Execution.png",
+    "Day 3/Java Code Execution.svg",
+    "Day 10/_Binary Search in 2D Arrays.md",
+    "Day 10/Sorted Matrix.md",
+    "Day 10/Searching in Matrices.md",
+    "Day 4/Pass Value.md",
+    "Day 8/Code for Binary Search.md",
+    "Day 7/Max Wealth.md",
+    "Day 7/Search in 2D Arrays.md",
+    "Day 6/_Introduction to Arrays and ArrayList in Java.md",
+    "Day 6/Syntax of a 2D Array.md",
+    "Day 6/Dynamic Arrays.md",
+    "Day 6/Multidimensional Arrays.md",
+    "Day 6/Array of Objects.md",
+    "Day 6/What is an Array.md",
+    "Day 6/toString() Method.md",
+    "Day 6/Direct hit Program.md",
+    "Day 6/Index of an Array.md",
+    "Day 6/Internal Working of ArrayList.md",
+    "Day 10",
+    "Day 9",
+    "Binary Search Algorithm",
+    "Day8",
+    "Day 8",
+    "Day 7",
+    "Internal Representation of Array.canvas",
+    "Day 6",
+    "Day 5",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "[[Day 3",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
+    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
+    "Excalidraw/Scripts/Downloaded/Set Link Alias.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Pasted image 20240827232616.png",
+    "Day 3/Java Code Execution.canvas",
+    "Pasted image 20240802233055.png",
+    "custom-upload-1682862322.webp"
+  ]
+}
