@@ -1,0 +1,3 @@
+- Binary Search is an optimized way of searching in an array.
+- It can be used only on sorted arrays, i.e. The elements are either in ascending or descending order.
+- There are different sorting algorithms to sort an array.

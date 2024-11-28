@@ -1,1 +1,0 @@
-Starts from zero will the size till the size-1.

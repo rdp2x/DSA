@@ -1,1 +1,0 @@
-Increases the Problem Solving skills and improves logical building

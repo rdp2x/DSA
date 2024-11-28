@@ -1,0 +1,3 @@
+- A new project is being created in the code editor we are using i.e. IntelliJ IDEA by JetBrains
+- A new project automatically bifurcates all the byte code and the source code files.
+- Additionally, the code editor itself has some many useful features like an built-in debug pointer, auto-code completion and much more

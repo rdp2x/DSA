@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
-  "settings-search"
+  "settings-search",
+  "obsidian-git",
+  "obsidian-folder-index"
 ]

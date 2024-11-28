@@ -1,0 +1,1 @@
+Nested Switch Case is very simple. A switch case inside a switch case. SIMPLEEE!! 

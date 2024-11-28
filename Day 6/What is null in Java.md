@@ -1,1 +1,0 @@
-Null in java is a literal when a new empty object is created of string Datatype

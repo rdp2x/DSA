@@ -1,0 +1,1 @@
+First of all, functions and methods are same thing but with different name in different scenarios. A **function** is a simple block of code that can be used whenever the user want to, but a method is something when a function is within a class.
