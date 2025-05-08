@@ -1,0 +1,1 @@
+A collection of values of a single datatype stored in a single variable that is used to access the it.

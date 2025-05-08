@@ -1,0 +1,2 @@
+`int[] nums` - The Declaration, where the variable is declared in the [[Memory Management#StackMemory|stack.]]
+`nums = new int[7]` - The initialization, where actual memory declaration that happens and the object is created in [[Memory Management#Heap Memory|heap memory]].
